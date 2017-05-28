@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri-homework",
+  "main": "keys.js",
+  "dependencies": {
+    "omdb-client": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmontoya87/liri-node-app.git"
+  },
+  "author": "LMontoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmontoya87/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/lmontoya87/liri-node-app#readme"
+}
