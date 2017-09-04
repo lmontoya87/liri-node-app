@@ -9,20 +9,20 @@ At the top of the liri.js file, added code to grab the data from keys.js then st
   my-tweets (will show last 20 tweets and when they were created)
 
   spotify-this-song '<song name here>' (will show the following information about the song)
-      The song's name
-      A preview link of the song from Spotify
-      The album that the song is from
+      The song's name,
+      A preview link of the song from Spotify,
+      The album that the song is from,
       if no song is provided then your program will default to "The Sign" by Ace of Base
 
   movie-this '<movie name here>' (will show the following information)
-      Title of the movie
-      Year the movie came out
-      IMDB Rating of the movie
-      Country where the movie was produced
-      Language of the movie
-      Plot of the movie
-      Actors in the movie
-      Rotten Tomatoes URL
+      Title of the movie,
+      Year the movie came out,
+      IMDB Rating of the movie,
+      Country where the movie was produced,
+      Language of the movie,
+      Plot of the movie,
+      Actors in the movie,
+      Rotten Tomatoes URL,
       If user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
       
   do-what-it-says (using the fs Node package - will use random.txt to call one of LIRI's commands. It will run spotify-this-song for "I         Want it That Way,")
